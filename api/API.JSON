@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Don't Look UP",
+    "rate": 4.5,
+    "image": "img-1",
+    "isNewEpisode": false,
+    "view": 72907,
+    "isWatching": true,
+    "isPotrait": false,
+    "isTop": true
+  },
+  {
+    "name": "All Of Us Are Dead",
+    "rate": 4,
+    "image": "img-2",
+    "isNewEpisode": false,
+    "view": 90002,
+    "isWatching": true,
+    "isPotrait": false,
+    "isTop": true
+  },
+  {
+    "name": "Bluelock",
+    "rate": 3.2,
+    "image": "img-3",
+    "isNewEpisode": true,
+    "view": 9734,
+    "isWatching": true,
+    "isPotrait": false,
+    "isTop": false
+  },
+  {
+    "name": "A Man Called Otto",
+    "rate": 4.1,
+    "image": "img-4",
+    "isNewEpisode": false,
+    "view": 38655,
+    "isWatching": true,
+    "isPotrait": false,
+    "isTop": false
+  },
+  {
+    "name": "Suzume",
+    "rate": 4.7,
+    "image": "img-5",
+    "isNewEpisode": false,
+    "view": 1009736,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true,
+    "isNew": true
+  },
+  {
+    "name": "Jurrassic World : Dominion",
+    "rate": 4.3,
+    "image": "img-6",
+    "isNewEpisode": false,
+    "view": 296842,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false
+  },
+  {
+    "name": "Sonic 2 : The hedgehog",
+    "rate": 4.5,
+    "image": "img-7",
+    "isNewEpisode": false,
+    "view": 193641,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false,
+    "isNew": true
+  },
+  {
+    "name": "All Of Us Are Dead",
+    "rate": 4.5,
+    "image": "img-8",
+    "isNewEpisode": false,
+    "view": 92164,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false
+  },
+  {
+    "name": "Big hero 6",
+    "rate": 4.7,
+    "image": "img-9",
+    "isNewEpisode": false,
+    "view": 196375,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true
+  },
+  {
+    "name": "The Tommorrow War",
+    "rate": 4.3,
+    "image": "img-10",
+    "isNewEpisode": false,
+    "view": 89534,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true
+  },
+  {
+    "name": "Antman : Quantumania",
+    "rate": 4.2,
+    "image": "img-11",
+    "isNewEpisode": false,
+    "view": 198360,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false,
+    "isNew": true
+  },
+  {
+    "name": "Marvel : The Guardian Of Galaxy V3",
+    "rate": 4.6,
+    "image": "img-12",
+    "isNewEpisode": false,
+    "view": 190467,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true
+  },
+  {
+    "name": "A Man Called Otto",
+    "rate": 4.1,
+    "image": "img-13",
+    "isNewEpisode": false,
+    "view": 89163,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false,
+    "isNew": true
+  },
+  {
+    "name": "Little Mermaid",
+    "rate": 4.3,
+    "image": "img-14",
+    "isNewEpisode": false,
+    "view": 137543,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true,
+    "isNew": true
+  },
+  {
+    "name": "Duty After School",
+    "rate": 3.9,
+    "image": "img-16",
+    "isNewEpisode": "",
+    "view": 0,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false
+  },
+  {
+    "name": "Big hero 6",
+    "rate": 4.5,
+    "image": "img-17",
+    "isNewEpisode": false,
+    "view": 189635,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true
+  },
+  {
+    "name": "All Of Us Are Dead",
+    "rate": 4.3,
+    "image": "img-18",
+    "isNewEpisode": false,
+    "view": 81364,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true
+  },
+  {
+    "name": "Missing",
+    "rate": 4,
+    "image": "img-19",
+    "isNewEpisode": false,
+    "view": 189365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false
+  },
+  {
+    "name": "Drakor",
+    "rate": 3.9,
+    "image": "img-20",
+    "isNewEpisode": true,
+    "view": 15365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true
+  },
+  {
+    "name": "Shazam!",
+    "rate": 4.3,
+    "image": "img-21",
+    "isNewEpisode": false,
+    "view": 89365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false,
+    "isNew": true
+  },
+  {
+    "name": "Avatar : the way of water",
+    "rate": 4.8,
+    "image": "img-22",
+    "isNewEpisode": false,
+    "view": 209365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true
+  },
+  {
+    "name": "X fast",
+    "rate": 3.6,
+    "image": "img-23",
+    "isNewEpisode": false,
+    "view": 189365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false
+  },
+  {
+    "name": "Alice in vorderland",
+    "rate": 4.1,
+    "image": "img-25",
+    "isNewEpisode": false,
+    "view": 189365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false
+  },
+  {
+    "name": "Megan",
+    "rate": 4.2,
+    "image": "img-26",
+    "isNewEpisode": false,
+    "view": 60365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false
+  },
+  {
+    "name": "RIO",
+    "rate": 4.3,
+    "image": "img-27",
+    "isNewEpisode": false,
+    "view": 196365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": true,
+    "isNew": true
+  },
+  {
+    "name": "The Batman",
+    "rate": 3.5,
+    "image": "img24",
+    "isNewEpisode": false,
+    "view": 48365,
+    "isWatching": false,
+    "isPotrait": true,
+    "isTop": false
+  }
+]
